@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">StartApp003</string>
+    <string name="app_name">Cheap Flights</string>
     <string name="ordinary">Простой</string>
     <string name="complex">Сложный</string>
     <string name="search_for_tickets">Искать билеты</string>
